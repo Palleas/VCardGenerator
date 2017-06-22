@@ -1,0 +1,127 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Casa;Casa;;
+ORG:Company
+TEL:123456789
+ADR:Address;;;;;
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+N:Jorge Rodríguez;Jorge Rodríguez;;
+ORG:Company
+TEL:123456789
+ADR:Address;;;;;
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+N:Diana Hernández;Diana Hernández;;
+ORG:Company
+TEL:123456789
+ADR:Address;;;;;
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+N:Isaac Sánchez;Isaac Sánchez;;
+ORG:Company
+TEL:123456789
+ADR:Address;;;;;
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+N:Mar Marín;Mar Marín;;
+ORG:Company
+TEL:123456789
+ADR:Address;;;;;
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+N:Irati Molina;Irati Molina;;
+ORG:Company
+TEL:123456789
+ADR:Address;;;;;
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+N:Noelia García;Noelia García;;
+ORG:Company
+TEL:123456789
+ADR:Address;;;;;
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+N:Carlota Díaz;Carlota Díaz;;
+ORG:Company
+TEL:123456789
+ADR:Address;;;;;
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+N:Ona Pérez;Ona Pérez;;
+ORG:Company
+TEL:123456789
+ADR:Address;;;;;
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+N:Jimena Gil;Jimena Gil;;
+ORG:Company
+TEL:123456789
+ADR:Address;;;;;
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+N:Rodrigo Castro;Rodrigo Castro;;
+ORG:Company
+TEL:123456789
+ADR:Address;;;;;
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+N:Diego Blanco;Diego Blanco;;
+ORG:Company
+TEL:123456789
+ADR:Address;;;;;
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+N:Luis Ramos;Luis Ramos;;
+ORG:Company
+TEL:123456789
+ADR:Address;;;;;
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+N:Ander Ortiz;Ander Ortiz;;
+ORG:Company
+TEL:123456789
+ADR:Address;;;;;
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+N:Inés Moreno;Inés Moreno;;
+ORG:Company
+TEL:123456789
+ADR:Address;;;;;
+END:VCARD
+
+BEGIN:VCARD
+VERSION:4.0
+N:Eva López;Eva López;;
+ORG:Company
+TEL:123456789
+ADR:Address;;;;;
+END:VCARD
